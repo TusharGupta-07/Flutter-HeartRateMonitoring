@@ -1,0 +1,28 @@
+name: heart_rate_monitoring
+description: Moniter heart rate using mobile camera and flash
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.5 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  wakelock: ^0.6.2
+
+  cupertino_icons: ^1.0.2
+  camera: ^0.10.0+4
+  charts_flutter: ^0.12.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+
+flutter:
+  uses-material-design: true

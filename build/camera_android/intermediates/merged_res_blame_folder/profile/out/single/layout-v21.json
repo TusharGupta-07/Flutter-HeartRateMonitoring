@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Volumes/MACBOOK TG EXTRA/Embebo/heart_rate_monitoring/build/camera_android/intermediates/merged_res/profile/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/tushar_gupta_mac/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Volumes/MACBOOK TG EXTRA/Embebo/heart_rate_monitoring/build/camera_android/intermediates/merged_res/profile/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/tushar_gupta_mac/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Volumes/MACBOOK TG EXTRA/Embebo/heart_rate_monitoring/build/camera_android/intermediates/merged_res/profile/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/tushar_gupta_mac/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Volumes/MACBOOK TG EXTRA/Embebo/heart_rate_monitoring/build/camera_android/intermediates/merged_res/profile/layout-v21/notification_action.xml",
+        "source": "/Users/tushar_gupta_mac/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/layout-v21/notification_action.xml"
+    }
+]
